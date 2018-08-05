@@ -1,2 +1,2 @@
 # datasciencecoursera
-This is a readme file for Coursera Data Science repository
+This is a repositoriy for Coursera Data Science course.
